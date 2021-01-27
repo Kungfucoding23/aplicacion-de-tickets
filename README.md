@@ -6,6 +6,8 @@ Funciona de la misma manera que el sistema de colas de un banco por ejemplo, don
 
 Se puede ingresar desde distintos dispositivos y se comunicarán entre si gracias a la implementación de Sockets
 
+Hace un sonido al atender el siguiente ticket
+
 ![alt text](https://github.com/Kungfucoding23/aplicacion-de-tickets/blob/main/Tickets.jpg)
 
 
