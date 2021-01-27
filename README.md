@@ -10,6 +10,8 @@ Hace un sonido al atender el siguiente ticket
 
 ![alt text](https://github.com/Kungfucoding23/aplicacion-de-tickets/blob/main/Tickets.jpg)
 
+[**Go to Site**](https://aletickets.herokuapp.com/)
+
 
 Reconstruir los módulos de node con el comando
 
